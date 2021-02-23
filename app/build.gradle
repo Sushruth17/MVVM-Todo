@@ -80,6 +80,9 @@ dependencies {
     implementation "androidx.datastore:datastore-preferences:$dataStoreVersion"
 
 
+    implementation "androidx.fragment:fragment-ktx:1.3.0"
+
+
 }
 
 kapt {

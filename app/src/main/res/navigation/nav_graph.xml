@@ -5,6 +5,6 @@
 
     <fragment
         android:id="@+id/taskFragment"
-        android:name="seventeen.mvvm.todo.fragments.TaskFragment"
+        android:name="seventeen.mvvm.todo.ui.tasks.TasksFragment"
         android:label="TaskFragment" />
 </navigation>
