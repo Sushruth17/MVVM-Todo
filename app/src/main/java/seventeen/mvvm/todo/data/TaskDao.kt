@@ -2,7 +2,6 @@ package seventeen.mvvm.todo.data
 
 import androidx.room.*
 import kotlinx.coroutines.flow.Flow
-import seventeen.mvvm.todo.ui.tasks.SortOrder
 
 @Dao
 interface TaskDao {
